@@ -1,0 +1,174 @@
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 301
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": 1,
+          "__connect_offset": 0,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T015722.200.json
+
+###
+
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 301
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": 1,
+          "__connect_offset": 0,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T014128.200.json
+
+###
+
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 301
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": 1,
+          "__connect_offset": 0,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T013659.200.json
+
+###
+
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 301
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": 1,
+          "__connect_offset": 0,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T011634.200.json
+
+###
+
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 301
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": 1,
+          "__connect_offset": 0,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T011318.200.json
+
+###
+
+POST http://localhost:8082/topics/demo-3-twitter
+Accept: application/vnd.kafka.v2+json
+Content-Type: application/vnd.kafka.json.v2+json
+Content-Length: 299
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "records": [
+    {
+      "value": {
+        "__connect_topic": "bar",
+        "__connect_partition": ,
+          "__connect_offset": ,
+        "created_at": "2023-01-29",
+        "id": 123,
+        "text": "Test from Quan Le",
+        "lang": "en",
+        "is_retweet": true
+      }
+    }
+  ]
+}
+
+<> 2023-01-29T011221.400.json
+
+###
+
